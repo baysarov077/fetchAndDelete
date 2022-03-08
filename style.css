@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 500px;
+    margin: auto;
+}
+
+.contant {
+    width: 500px;
+    margin: auto;
+}
+.flex-boc {
+    display: flex;
+}
+
+.delBtn {
+    width: 15px;
+    border: 1px solid;
+
+}
+#table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tr, th, td {
+    border: 1px solid;
+    padding: 15px;
+}
